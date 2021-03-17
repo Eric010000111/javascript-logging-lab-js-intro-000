@@ -44,9 +44,3 @@ describe('index', () => {
     })
   })
 })
-```js
-console.error("Halp!")
-```
-```js
-learn test
-```
